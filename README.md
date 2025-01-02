@@ -1,4 +1,4 @@
-# Windows-Forensic-Artifacts-Program-Execution
+# Windows Forensic Artifacts: Program Execution
 
 <h2>Description</h2>
 In this Digital Forensics task, I used registry explorer to enumerate executable program locations within SYSTEM,SOFTWARE, & NTUSER.DAT hives.
